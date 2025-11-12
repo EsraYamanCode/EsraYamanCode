@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/EsraYamanCode/EsraYamanCode/blob/main/assets/indir.jpg" alt="banner" width="100%">
+</p>
 
 🌸 Merhaba, ben Esra Yaman.<br>
 Bilgisayar Mühendisliği öğrencisiyim. Web arayüzlerinde sadeliği ve akışı ön planda tutmayı seviyorum 🌿 Şu anda React ve TypeScript ile projeler geliştiriyorum,

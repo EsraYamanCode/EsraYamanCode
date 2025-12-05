@@ -1,21 +1,14 @@
-<p align="center">
-  <img src="https://github.com/EsraYamanCode/EsraYamanCode/blob/main/assets/indir.jpg" alt="banner" width="100%">
-</p>
-
-🌸 Merhaba, ben Esra Yaman.<br>
-Bilgisayar Mühendisliği öğrencisiyim. Web arayüzlerinde sadeliği ve akışı ön planda tutmayı seviyorum 🌿 Şu anda React ve TypeScript ile projeler geliştiriyorum,
-aynı zamanda estetik tasarım ve animasyon odaklı portföy projeleri üzerinde çalışıyorum ✨
-
-💻 Teknolojiler & Araçlar;
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,ts,html,css,tailwind,threejs,git,vite" /> </div>
-
-🌱 Şu Anda Üzerinde Çalıştıklarım; <br>
-⚙️ Voltus Motors App – Motosiklet kullanıcıları için akıllı bildirim uygulaması<br>
-🌐 Aikido Temalı Portföy – Akışkan geçişler ve zarif animasyonlar<br>
-🎨 Three.js ile 3D web sahneleri denemeleri<br>
-
-🌸 Hedefim, teknolojiyi sadece işlev için değil, his uyandıran bir araç olarak görüyorum. Öğrendikçe, tasarım ve yazılım arasındaki dengeyi daha iyi kurmayı hedefliyorum. Kullanıcının rahat, akıcı ve sade bir deneyim yaşamasını önemsiyorum. Tıpkı Aikido’daki gibi, dijital dünyada da uyum ve akış hissi yaratmak istiyorum.
-
-📫 Bana ulaş:<br>
-https://www.linkedin.com/in/esrayamann/ <br>
-yamaann.esra@gmail.com
+<div id="header" align="center">
+  <img src="[https://giphy.com/media/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2]" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>

@@ -1,5 +1,7 @@
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -43,5 +45,6 @@ Ben **Esra Yaman**. Bilgisayar mühendisliği son sınıf öğrencisi olarak web
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EsraYamanCode&theme=dark&background=000000)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYamanCode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/EsraYamanCode/EsraYamanCode/blob/output/github-contribution-grid-snake.svg)
 

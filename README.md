@@ -46,6 +46,5 @@ Ben **Esra Yaman**. Bilgisayar mühendisliği son sınıf öğrencisi olarak web
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EsraYamanCode&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 
-![GitHub Snake](https://raw.githubusercontent.com/EsraYamanCode/EsraYamanCode/output/github-contribution-grid-snake.svg)
 
 
